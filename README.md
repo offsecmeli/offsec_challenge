@@ -8,7 +8,7 @@ El desafío es diseñar e implementar un **sistema de agentico de IA** que pueda
 
 ### 🎯 Objetivos del Desafío
 
-1. **Encontrar la API-KEY**: Para utilizar IA debes encontrar la API key en este repositorio.
+1. **Encontrar la API-KEY**: En este repositorio hay una API-Key de Gemini (ya deprecada).
 2. **Integración con IA**: Usar modelos de lenguaje para análisis y generación de código (Gemini).
 3. **Conectividad LDAP**: Implementar un agente que pueda conectarse e interactuar con un servidor OpenLDAP.
 4. **Capacidades Base**: Desarrollar herramientas básicas para consultas comunes de AD.
